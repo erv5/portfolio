@@ -3,15 +3,47 @@
 	  "name": "Nirvana Link",
 	  "icon": "/images/portfolio/nirvana_link_logo.png",
 	  "link": "http://www.nirvanalink.com/",
-	  "code": "https://github.com/",
-	  "description": "A web application for finding inner peace and tranquility.",
+	  "code": "https://github.com/erv5",
+	  "description": "Comprehensive Numerology, Feng Shui, and Astrology app built with AWS Lambda, S3, DynamoDB, and API Gateway.",
+	  "category": "Web Development"
+	},
+	{
+	  "name": "Ultra Focus",
+	  "icon": "/images/portfolio/ultra_focus_logo.png",
+	  "link": "http://www.ultrafocusapp.com/",
+	  "code": "https://github.com/erv5/ultra_focus",
+	  "description": "Privacy-first task organizer with local encryption, multi-platform support, and 10-language localization.",
+	  "category": "Mobile App"
+	},
+	{
+	  "name": "lDreamRental",
+	  "icon": "/images/portfolio/ldreamrental_logo.png",
+	  "link": "http://cars.lDreamRental.com/",
+	  "code": "https://github.com/erv5",
+	  "description": "Modern car rental booking platform with real-time availability and seamless reservation management.",
+	  "category": "E-commerce"
+	},
+	{
+	  "name": "TracCar GPS",
+	  "icon": "/images/portfolio/traccar_logo.png",
+	  "link": "http://traccar.lDreamRental.com/",
+	  "code": "https://github.com/traccar/traccar",
+	  "description": "Open-source GPS tracking system for real-time vehicle monitoring and fleet management.",
+	  "category": "Web Development"
+	},
+	{
+	  "name": "Erb University",
+	  "icon": "/images/portfolio/erb_university_logo.png",
+	  "link": "http://www.erbuniversity.com/",
+	  "code": "https://github.com/erv5",
+	  "description": "Comprehensive college registration system with course management, student enrollment, and academic tracking.",
 	  "category": "Web Development"
 	},
 	{
 	  "name": "The Chop Shop",
 	  "icon": "/images/portfolio/the_chop_shop_logo.png",
 	  "link": "http://thechopshopbk.com/",
-	  "code": "https://github.com/",
+	  "code": "https://github.com/erv5",
 	  "description": "An e-commerce platform for a local barbershop.",
 	  "category": "E-commerce"
 	},
@@ -19,7 +51,7 @@
 	  "name": "Late Night Liquor 1",
 	  "icon": "/images/portfolio/late_night_liquor_1_logo.png", 
 	  "link": "https://latenightliquor1.com/",
-	  "code": "https://github.com/",
+	  "code": "https://github.com/erv5",
 	  "description": "A website for a late-night liquor delivery service.",
 	  "category": "Web Development"
 	},
@@ -27,7 +59,7 @@
 	  "name": "Courtney's Cutz",
 	  "icon": "/images/portfolio/courtneys_cutz_logo.png",
 	  "link": "https://courtneyscutz.com/",
-	  "code": "https://github.com/",
+	  "code": "https://github.com/erv5",
 	  "description": "A portfolio website for a professional hairstylist.",
 	  "category": "Web Development"
 	}
