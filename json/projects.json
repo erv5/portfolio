@@ -4,7 +4,7 @@
 	  "icon": "/images/portfolio/shadow_repo_logo.png",
 	  "link": "https://repo.soardev.cc/",
 	  "code": "https://github.com/erv5/shadow",
-	  "description": "My Sileo/Zebra jailbreak repo — Shadow fork (jailbreak-detection bypass) built for rootful, rootless, and roothide. Add https://repo.soardev.cc in your package manager.",
+	  "description": "My Sileo/Zebra jailbreak repo. Shadow fork (beta) — jailbreak-detection bypass for rootless and roothide. Fork of jjolano/shadow with per-app hook toggles + detector fixes. Add https://repo.soardev.cc in your package manager.",
 	  "category": "Jailbreak"
 	},
 	{
